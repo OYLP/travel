@@ -1,6 +1,6 @@
 # travel
 
-> 仿去哪儿网的旅游网站
+> 使用VUE 仿去哪儿网的旅游网站APP
 
 ## Build Setup
 
