@@ -1,6 +1,10 @@
 # travel
 
-> 使用VUE 仿去哪儿网的旅游网站APP
+> 使用VUE的脚手架搭建 仿去哪儿网的旅游网站APP
+> 用vue-cli脚手架 搭建框架
+> 使用vue-router 搭建项目路由
+> 使用axios请求接口数据
+> 使用VueX 管理共享数据
 
 ## Build Setup
 
