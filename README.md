@@ -1,6 +1,6 @@
 # travel
 
-> A Vue.js project
+> 仿去哪儿网的旅游网站
 
 ## Build Setup
 
